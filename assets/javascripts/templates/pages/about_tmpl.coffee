@@ -83,7 +83,7 @@ app.templates.aboutPage = -> """
 
 credits = [
   [ 'Angular<br>Angular.js',
-    '2010-2018 Google, Inc.',
+    '2010-2019 Google, Inc.',
     'CC BY',
     'https://creativecommons.org/licenses/by/4.0/'
   ], [
@@ -123,7 +123,7 @@ credits = [
     'https://raw.githubusercontent.com/petkaantonov/bluebird/master/LICENSE'
   ], [
     'Bootstrap',
-    '2011-2019 Twitter, Inc.<br>2011-2019 The Bootstrap Authors',
+    '2011-2020 Twitter, Inc.<br>2011-2020 The Bootstrap Authors',
     'CC BY',
     'https://creativecommons.org/licenses/by/3.0/'
   ], [
@@ -311,6 +311,11 @@ credits = [
     'Free Software Foundation',
     'GFDL',
     'https://www.gnu.org/licenses/fdl-1.3.en.html'
+  ], [
+    'Gnuplot',
+    'Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley',
+    'gnuplot license',
+    'https://sourceforge.net/p/gnuplot/gnuplot-main/ci/master/tree/Copyright'
   ], [
     'Go',
     'Google, Inc.',
@@ -613,7 +618,7 @@ credits = [
     'https://raw.githubusercontent.com/pygame/pygame/master/LICENSE'
   ], [
     'Python',
-    '2001-2018 Python Software Foundation<br>Python is a trademark of the Python Software Foundation.',
+    '2001-2020 Python Software Foundation<br>Python is a trademark of the Python Software Foundation.',
     'PSFL',
     'https://docs.python.org/3/license.html'
   ], [
@@ -743,7 +748,7 @@ credits = [
     'http://tcl.tk/software/tcltk/license.html'
   ], [
     'TensorFlow',
-    '2018 The TensorFlow Authors',
+    '2019 The TensorFlow Authors',
     'CC BY',
     'https://creativecommons.org/licenses/by/3.0/'
   ], [
@@ -763,7 +768,7 @@ credits = [
     'https://twig.symfony.com/license'
   ], [
     'TypeScript',
-    'Microsoft and other contributors',
+    '2012-2019 Microsoft',
     'Apache',
     'https://raw.githubusercontent.com/Microsoft/TypeScript-Handbook/master/LICENSE'
   ], [
